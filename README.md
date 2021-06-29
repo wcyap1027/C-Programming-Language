@@ -1,2 +1,2 @@
 # C-Programming-Language
-Just a practical to recall my brain
+Just a revision to recall back my brain
